@@ -1,0 +1,22 @@
+.card-container {
+  background-color: #b1e325;
+}
+
+.first-card-image,
+.second-card-image,
+.third-card-image {
+  height: 250px;
+  /* width: 100px; */
+  overflow: hidden;
+}
+.btn {
+  background-color: #b1e325;
+}
+
+.container-1 {
+  background-color: #b1e325;
+}
+
+.main {
+  font-size: 75px !important;
+}
